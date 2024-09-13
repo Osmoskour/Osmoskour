@@ -4,7 +4,7 @@
 
 [My Personal Site!](https://osmoskour.github.io/portfolio/)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kolowy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=osmoskour&theme=dark&hide_border=false)<br/>
 
 <!--
 **Osmoskour/Osmoskour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

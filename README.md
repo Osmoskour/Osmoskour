@@ -4,9 +4,8 @@
 
 [My Personal Site!](https://osmoskour.github.io/portfolio/)
 
-<p align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=osmoskour&theme=dark&hide_border=false)<br/>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=osmoskour&theme=dark&hide_border=false)<br/>
+
 
 
 <p align="center">
